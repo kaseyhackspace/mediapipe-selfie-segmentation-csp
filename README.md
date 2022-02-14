@@ -8,7 +8,7 @@
     - `https://cdn.jsdelivr.net/npm/@mediapipe/camera_utils/`
     - `https://cdn.jsdelivr.net/npm/@mediapipe/control_utils/`
     - `https://cdn.jsdelivr.net/npm/@mediapipe/drawing_utils/`
-- set CSP to `script-src: 'self'`
+- set CSP to `script-src 'self'`
 ``` html
 <meta http-equiv="Content-Security-Policy" content="script-src: 'self'">
 ```
